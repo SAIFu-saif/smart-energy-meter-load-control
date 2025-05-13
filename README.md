@@ -25,3 +25,4 @@ The Arduino reads analog data from sensors, calculates power, and controls a rel
 
 ## License
 MIT
+Sahil
